@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./pandi.svg" alt="Pandi" width="160" />
+
 # Pandi
 
 **Plateforme d'apprentissage adaptative — développement & cybersécurité.**
