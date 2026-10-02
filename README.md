@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./pandi.svg" alt="Pandi" width="160" />
+<img src="./mascot.svg" alt="Pandi" width="160" />
 
 # Pandi
 
